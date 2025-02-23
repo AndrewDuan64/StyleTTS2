@@ -1,1 +1,4 @@
 __pycache__
+Models/*
+reference_audio/*
+test/*
